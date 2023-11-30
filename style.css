@@ -81,9 +81,6 @@ a:hover {
   color: black;
 }
 
-.list-center {
-  text-align-last: center;
-}
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
